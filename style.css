@@ -4,6 +4,8 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-color: #a9708d;
+    color: azure;
 }
 .ha{
     margin: 100px 0 20px;
